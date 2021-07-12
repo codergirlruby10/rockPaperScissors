@@ -17,7 +17,7 @@ public class RockPaperScissors {
 
         //Computer moves
         number = rand.nextInt(3);
-        //String computerMoves = Integer.toString(number);
+
 
         if(number == 0)
         {
